@@ -44,6 +44,8 @@
         This website is <a href="https://github.com/alex/nyt-2020-election-scraper">open source</a> and was written by <a href="https://github.com/alex/nyt-2020-election-scraper/graphs/contributors">these people</a>.
     </p>
 
+    <input type="text" id="myInput" onkeyup="search()" placeholder="Search for State">
+
     <table id='alaska' class='table table-bordered'>
 
         <thead class="thead-light">
@@ -4683,4 +4685,5 @@
             tselem.innerHTML = "<abbr title='" + tselem.innerHTML + "'>" + dayjs.utc(tselem.innerHTML.replace(" UTC", ""), 'YYYY-MM-DD HH:MM:SS').fromNow() + "</abbr>"
         })
     </script>
+    <script src="app.js"></script>
 </body>
