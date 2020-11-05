@@ -42,7 +42,14 @@
         This website is <a href="https://github.com/alex/nyt-2020-election-scraper">open source</a> and was written by <a href="https://github.com/alex/nyt-2020-election-scraper/graphs/contributors">these people</a>.
     </p>
 
-    <input type="text" id="myInput" onkeyup="search()" placeholder="Search for State">
+    <input type="text" id="myInput" placeholder="Search for State">
+    <button id="reset" type="submit">Show all rows</button>
+    <select name="Rows to Hide" id="hide">
+        <option>Row limit</option>
+        <option value="3">3</option>
+        <option value="5">5</option>
+        <option value="10">10</option>
+    </select>
 
     {% TABLES %}
 
