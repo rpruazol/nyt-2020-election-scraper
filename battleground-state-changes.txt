@@ -1,6 +1,6 @@
 ----------------------  --------------------------------------------------------------------------------
-Last updated:           2020-11-06 14:47 UTC
-Latest batch received:  2020-11-06 14:20 UTC
+Last updated:           2020-11-06 14:55 UTC
+Latest batch received:  2020-11-06 14:54 UTC
 Prettier web version:   https://alex.github.io/nyt-2020-election-scraper/battleground-state-changes.html
 ----------------------  --------------------------------------------------------------------------------
 
@@ -44,7 +44,7 @@ Arizona (11):
 
 Georgia (16):
 ----------------  ---  ------------------------------  -------------------------  --------------------------------------------  --------------------  ----------------------------  -------------------------
-2020-11-06 14:20  ***  Biden leading by 1,097 votes    Remaining (est.): 5,254    Change:      13 (Biden 50.0% / 50.0% Trump)   Precincts: 2643/2655  Trump needs 60.44% [0.026%]   Trump recent trend 66.62%
+2020-11-06 14:20  ---  Biden leading by 1,097 votes    Remaining (est.): 5,254    Change:      13 (Biden 50.0% / 50.0% Trump)   Precincts: 2643/2655  Trump needs 60.44% [0.026%]   Trump recent trend 66.62%
 2020-11-06 13:16  ---  Biden leading by 1,097 votes    Remaining (est.): 5,267    Change:       1 (Biden 100.0% /  0.0% Trump)  Precincts: 2643/2655  Trump needs 60.41% [0.011%]   Trump recent trend 66.63%
 2020-11-06 11:10  ---  Biden leading by 1,096 votes    Remaining (est.): 5,268    Change:     241 (Biden 87.1% / 12.9% Trump)   Precincts: 2643/2655  Trump needs 60.40% [2.080%]   Trump recent trend 66.63%
 2020-11-06 09:48  ---  Biden leading by 917 votes      Remaining (est.): 5,509    Change:   1,843 (Biden 62.3% / 37.7% Trump)   Precincts: 2643/2655  Trump needs 58.32% [5.174%]   Trump recent trend 67.01%
@@ -173,6 +173,7 @@ Nevada (6):
 
 Pennsylvania (20):
 ----------------  ---  ------------------------------  ---------------------------  --------------------------------------------  --------------------  ----------------------------  -------------------------
+2020-11-06 14:54  ***  Biden leading by 5,618 votes    Remaining (est.): 144,737    Change:     306 (Biden 55.1% / 44.9% Trump)   Precincts: 8451/9128  Trump needs 51.94% [0.015%]   Trump recent trend 69.60%
 2020-11-06 13:52  ---  Biden leading by 5,587 votes    Remaining (est.): 145,043    Change:  31,412 (Biden 30.2% / 69.8% Trump)   Precincts: 8450/9128  Trump needs 51.93% [-3.188%]  Trump recent trend 69.84%
 2020-11-06 13:16  ---  Trump leading by 18,049 votes   Remaining (est.): 176,455    Change:       0 (n/a)                         Precincts: 8385/9128  Biden needs 55.11% [0.189%]   Biden recent trend 80.08%
 2020-11-06 12:57  ---  Trump leading by 18,049 votes   Remaining (est.): 183,241    Change:       0 (n/a)                         Precincts: 8385/9128  Biden needs 54.92% [1.598%]   Biden recent trend 80.08%
