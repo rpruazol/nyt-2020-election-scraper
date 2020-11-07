@@ -1,6 +1,6 @@
 ----------------------  --------------------------------------------------------------------------------
-Last updated:           2020-11-07 02:46 UTC
-Latest batch received:  2020-11-07 02:42 UTC
+Last updated:           2020-11-07 02:55 UTC
+Latest batch received:  2020-11-07 02:54 UTC
 Prettier web version:   https://alex.github.io/nyt-2020-election-scraper/battleground-state-changes.html
 ----------------------  --------------------------------------------------------------------------------
 
@@ -12,8 +12,8 @@ Alaska (3):
 
 Arizona (11):
 ----------------  ---  ------------------------------  ---------------------------  -------------------------------------------  --------------------  ----------------------------  -------------------------
-2020-11-07 02:25  ***  Biden leading by 29,861 votes   Remaining (est.): 180,944    Change:       0 (n/a)                        Precincts: 1462/1489  Trump needs 58.25% [-0.382%]  Trump recent trend 54.38%
-2020-11-07 02:19  ***  Biden leading by 29,861 votes   Remaining (est.): 172,944    Change:  79,395 (Biden 45.6% / 54.4% Trump)  Precincts: 1462/1489  Trump needs 58.63% [1.338%]   Trump recent trend 54.38%
+2020-11-07 02:25  ---  Biden leading by 29,861 votes   Remaining (est.): 180,944    Change:       0 (n/a)                        Precincts: 1462/1489  Trump needs 58.25% [-0.382%]  Trump recent trend 54.38%
+2020-11-07 02:19  ---  Biden leading by 29,861 votes   Remaining (est.): 172,944    Change:  79,395 (Biden 45.6% / 54.4% Trump)  Precincts: 1462/1489  Trump needs 58.63% [1.338%]   Trump recent trend 54.38%
 2020-11-07 01:26  ---  Biden leading by 36,816 votes   Remaining (est.): 252,339    Change:     612 (Biden 48.4% / 51.6% Trump)  Precincts: 1462/1489  Trump needs 57.29% [0.014%]   Trump recent trend 60.74%
 2020-11-07 00:29  ---  Biden leading by 36,835 votes   Remaining (est.): 252,951    Change:   2,976 (Biden 22.8% / 77.2% Trump)  Precincts: 1461/1489  Trump needs 57.28% [-0.232%]  Trump recent trend 60.91%
 2020-11-06 23:44  ---  Biden leading by 38,455 votes   Remaining (est.): 255,927    Change:   2,172 (Biden 35.8% / 64.2% Trump)  Precincts: 1460/1489  Trump needs 57.51% [-0.056%]  Trump recent trend 54.67%
@@ -57,8 +57,9 @@ Arizona (11):
 
 Georgia (16):
 ----------------  ---  ------------------------------  -------------------------  --------------------------------------------  --------------------  -----------------------------  -------------------------
-2020-11-07 02:25  ***  Biden leading by 4,289 votes    Remaining (est.): -7,191   Change:     188 (Biden 91.2% /  8.8% Trump)   Precincts: 2643/2655  Trump needs 20.18% [-0.306%]   Trump recent trend 56.32%
-2020-11-07 02:19  ***  Biden leading by 4,134 votes    Remaining (est.): -7,003   Change:     465 (Biden 62.3% / 37.7% Trump)   Precincts: 2643/2655  Trump needs 20.48% [1.227%]    Trump recent trend 56.54%
+2020-11-07 02:54  ***  Biden leading by 4,395 votes    Remaining (est.): -7,354   Change:     163 (Biden 82.5% / 17.5% Trump)   Precincts: 2643/2655  Trump needs 20.12% [-0.060%]   Trump recent trend 56.16%
+2020-11-07 02:25  ---  Biden leading by 4,289 votes    Remaining (est.): -7,191   Change:     188 (Biden 91.2% /  8.8% Trump)   Precincts: 2643/2655  Trump needs 20.18% [-0.306%]   Trump recent trend 56.32%
+2020-11-07 02:19  ---  Biden leading by 4,134 votes    Remaining (est.): -7,003   Change:     465 (Biden 62.3% / 37.7% Trump)   Precincts: 2643/2655  Trump needs 20.48% [1.227%]    Trump recent trend 56.54%
 2020-11-07 01:40  ---  Biden leading by 4,020 votes    Remaining (est.): -6,538   Change:     211 (Biden 50.9% / 49.1% Trump)   Precincts: 2643/2655  Trump needs 19.26% [0.994%]    Trump recent trend 56.76%
 2020-11-07 01:26  ---  Biden leading by 4,016 votes    Remaining (est.): -6,327   Change:     381 (Biden 49.1% / 50.9% Trump)   Precincts: 2643/2655  Trump needs 18.26% [2.092%]    Trump recent trend 56.80%
 2020-11-07 01:01  ---  Biden leading by 4,023 votes    Remaining (est.): -5,946   Change:     121 (Biden 75.2% / 24.8% Trump)   Precincts: 2643/2655  Trump needs 16.17% [0.179%]    Trump recent trend 56.86%
