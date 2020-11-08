@@ -1,6 +1,6 @@
 ----------------------  --------------------------------------------------------------------------------
-Last updated:           2020-11-08 19:33 UTC
-Latest batch received:  2020-11-08 19:32 UTC
+Last updated:           2020-11-08 19:42 UTC
+Latest batch received:  2020-11-08 19:38 UTC
 Prettier web version:   https://alex.github.io/nyt-2020-election-scraper/battleground-state-changes.html
 ----------------------  --------------------------------------------------------------------------------
 
@@ -66,6 +66,7 @@ Arizona (11):
 
 Georgia (16):
 ----------------  ---  ------------------------------  -------------------------  --------------------------------------------  --------------------  -----------------------------  -------------------------
+2020-11-08 19:38  ***  Biden leading by 10,353 votes   Remaining (est.): -18,187  Change:     409 (Biden 69.2% / 30.8% Trump)   Precincts: 2643/2655  Trump needs 21.54% [0.213%]    Trump recent trend 36.96%
 2020-11-08 13:13  ---  Biden leading by 10,196 votes   Remaining (est.): -17,778  Change:       1 (Biden 100.0% /  0.0% Trump)  Precincts: 2643/2655  Trump needs 21.32% [-0.001%]   Trump recent trend 39.19%
 2020-11-08 07:26  ---  Biden leading by 10,195 votes   Remaining (est.): -17,777  Change:   2,246 (Biden 73.0% / 27.0% Trump)   Precincts: 2643/2655  Trump needs 21.33% [0.815%]    Trump recent trend 39.19%
 2020-11-07 23:56  ---  Biden leading by 9,160 votes    Remaining (est.): -15,531  Change:   1,982 (Biden 90.7% /  9.3% Trump)   Precincts: 2643/2655  Trump needs 20.51% [-1.639%]   Trump recent trend 50.27%
